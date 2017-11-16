@@ -1,0 +1,7 @@
+com/example/rest/client/ProsClient.class
+com/example/BasicApplication.class
+com/example/rest/StudentController.class
+com/example/rest/client/ProsDelegate$1.class
+com/example/rest/client/ProsDelegate.class
+com/example/dto/HelloDto.class
+com/example/rest/client/HystrixWrappedProsClient.class
