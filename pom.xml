@@ -4,12 +4,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>basic</artifactId>
+    <artifactId>consul_demo_service_client</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>test</name>
-    <description>Basic project for Spring Boot</description>
+    <name>consul_demo_service_client</name>
+    <description>consul_demo_service_client</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
